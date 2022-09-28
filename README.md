@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sunasra Ovesh
-- 👀 I’m interested in Pyton
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in Php
+- 🌱 I’m currently learning Laravel
 - 📫 How to reach me Instagram id:-sunasra ovesh
 
 <!---
